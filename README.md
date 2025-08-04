@@ -15,8 +15,3 @@ I'm a passionate developer with a versatile skillset in various programming lang
 - [Unifi SSH tool](#) - Tool for simplifying management tasks
 
 
-## 📊 GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zipposativ)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zipposativ)
-[![trophy](https://github-profile-trophy.vercel.app/?username=zipposativ)](https://github.com/zipposativ)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zipposativ)](https://git.io/streak-stats)
