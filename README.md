@@ -1,16 +1,23 @@
-## Hi there 👋
+```markdown
+# Hi there, I'm Simon - aka zipposativ 👋
 
-<!--
-**zipposativ/zipposativ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer with a versatile skillset in various programming languages and technologies. Despite my low follower count, my commitment to contributing code to open-source projects reflects my dedication and curiosity about different technologies.
 
-Here are some ideas to get you started:
+## ⚡ Technologies
+- Languages: CSS, SCSS, JavaScript, PHP, Dockerfile
+- Databases: MySQL
+- Frontend: HTML, CSS, JavaScript
+- DevOps: Docker
+- Tools: WordPress, Unifi SSH tool
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 My Best Projects
+- [WordPress maps disclaimer plugin](#) - Contribution to the WordPress community
+- [Unifi SSH tool](#) - Tool for simplifying management tasks
+
+
+## 📊 GitHub Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zipposativ)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zipposativ)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zipposativ)](https://github.com/zipposativ)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zipposativ)](https://git.io/streak-stats)
