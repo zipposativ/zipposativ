@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Simon - aka zipposativ 👋
 
 ## 🚀 About Me
