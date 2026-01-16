@@ -1,14 +1,13 @@
 # Hi there, I'm Simon - aka zipposativ 👋
 
 ## 🚀 About Me
-I'm a passionate developer with a versatile skillset in various programming languages and technologies. Despite my low follower count, my commitment to contributing code to open-source projects reflects my dedication and curiosity about different technologies.
-
+Ich bin Fachinformatiker und bastel gerne an Projekten, die mir den Arbeitsaltag erleichtern!
 ## ⚡ Technologies
 - Languages: JavaScript, PHP, Dockerfile
 - Databases: MySQL, SQLite
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript, Bulma
 - DevOps: Docker, Debian
-- Tools: WordPress, Gjost Blog, Unifi SSH tool
+- Tools: WordPress, Ghost Blog, Unifi SSH tool
 
 ## 🔥 My Best Projects
 - [WordPress maps disclaimer plugin](#) - Contribution to the WordPress community
